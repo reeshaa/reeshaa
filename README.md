@@ -3,7 +3,7 @@ I'm Reesha Shenoy, ex Technology Analyst Intern @ Morgan Stanley. I am a CSE gra
 
 Actively seeking SDE Roles - Find resume link below
 
-https://bit.ly/reesha-shenoy
+https://bit.ly/shenoy-reesha
 
 ### 💫 A little about me
 - Core organizer of 36 hour MLH Hack: CentuRITon
